@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Merhaba, ben [Adınız]  
+# 👋 Merhaba, ben Katarto
 
 💻 Yazılım geliştiricisi | 🚀 Açık kaynak katkıcısı | 📚 Sürekli öğrenen  
 
